@@ -5,6 +5,7 @@
 
 <img src="https://pbs.twimg.com/media/FWy59sPXkAAPkka?format=jpg&name=medium">
 
+[![](https://img.shields.io/badge/sosyal.teknofest.app-%2312100E.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://sosyal.teknofest.app/@codesignist)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/yunuses)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/codesignist)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codesignist/)
